@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Voice Mute</string>
+    <string name="service_name">Voice Mute Service</string>
+    <string name="service_running">Voice Mute is active</string>
+    <string name="listening_for_commands">Listening for commands: "اسكت" or "تكلم"</string>
+    <string name="stop_service">Stop</string>
+    <string name="start_service">Start Service</string>
+    <string name="recognized_text">Recognized: %1$s</string>
+    <string name="dnd_permission_required">Please grant Do Not Disturb access to allow the app to mute/unmute the device.</string>
+    <string name="waiting_for_speech">Waiting for speech...</string>
+    <string name="service_status_running">Service is Running</string>
+    <string name="service_status_stopped">Service is Stopped</string>
+</resources>

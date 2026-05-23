@@ -1,0 +1,5 @@
+/build*
+*.model
+*.bin
+assets/vosk_model*
+.gradle*
