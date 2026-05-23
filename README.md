@@ -104,7 +104,3 @@ Example expected structure:
 ```text
 app/src/main/assets/vosk_model_ar_mgb2_0.4/
 ```
-
-Example expected structure:
-
-app/src/main/assets/vosk_model_ar_mgb2_0.4/
